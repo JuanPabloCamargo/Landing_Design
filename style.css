@@ -1,0 +1,15 @@
+.foto
+{
+  width: 35px;
+  height: 35px;
+  background: #fff;
+  border-radius: 3px;
+}
+.dropdown-item
+{
+  color: #fff;
+}
+.dropdown-menu
+{
+  background: #6b757d;
+}
